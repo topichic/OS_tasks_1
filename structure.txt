@@ -1,0 +1,50 @@
+.
+└── linux_practice
+    ├── backup_scripts
+    ├── binary_files
+    ├── data
+    │   ├── archive
+    │   │   ├── 2023
+    │   │   └── 2024
+    │   └── logs
+    ├── home
+    │   └── user
+    │       ├── desktop
+    │       ├── documents
+    │       └── hidden_folder
+    ├── mirror
+    │   └── project
+    │       ├── backup
+    │       ├── bin
+    │       ├── doc
+    │       ├── src
+    │       └── test
+    │           ├── integration
+    │           └── unit
+    ├── organized
+    │   ├── configs
+    │   ├── documents
+    │   └── scripts
+    ├── project
+    │   ├── backup
+    │   ├── bin
+    │   ├── doc
+    │   ├── src
+    │   └── test
+    │       ├── integration
+    │       └── unit
+    ├── system
+    │   ├── bin
+    │   ├── config
+    │   ├── lib
+    │   └── tmp
+    ├── today_backup
+    └── work
+        ├── projects
+        │   └── my_backups
+        │       └── test
+        │           ├── integration
+        │           └── unit
+        └── src_backup
+
+48 directories
