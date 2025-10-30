@@ -1,8 +1,12 @@
 20K	backup_scripts
 44K	data
+4.0K	directories_list.txt
+4.0K	disk_usage_report.txt
+4.0K	file_types_report.txt
 32K	home
 48K	organized
 68K	project
+4.0K	structure.txt
 32K	system
 84K	today_backup
 48K	work
